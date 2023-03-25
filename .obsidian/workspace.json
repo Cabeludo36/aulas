@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
+                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
+                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
+                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md"
+                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md"
               }
             }
           },
@@ -150,14 +150,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5b56fb77068793fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +179,9 @@
   },
   "active": "d4ccb3aba2472ed2",
   "lastOpenFiles": [
-    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
     "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
+    "Referencias.md",
+    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
     "1Sistemas Distribuidos/1-Sistemas Distribuidos.md",
     "5Engenharia de Software/3-Qualidade de software.md",
     "aulas",
