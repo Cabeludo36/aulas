@@ -57,11 +57,14 @@ for(i = 0; i < n; i++) {
 | 210                  | 22050           | 210              |        22000         |
 | 211                  | 22260,5         | 211              |        22100         |
 
-$n!$ Fatorial
-$2^2$ Exponencial
-$n^k$ Polinomial
-$n^2$ Quadratico
-$n log_n$ Linear Logaritmico
-$N$ linear
-$log_n$ Logáritmico
-$1$ constante
+| Representação | Nome               |
+| ------------- | ------------------ |
+| $n!$          | Fatorial           |
+| $2^2$         | Exponencial        |
+| $n^k$         | Polinomial         |
+| $n^2$         | Quadratico         |
+| $n log_n$     | Linear Logaritmico |
+| $N$           | linear             |
+| $log_n$       | Logáritmico        |
+| $1$              |     constante               |
+

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b285a585510e42d",
+        "id": "1f65fe213ff21621",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ccb3aba2472ed2",
+            "id": "58e73a8e63ac09b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc0907467ea95aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
+                "file": "Referencias.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
+                "file": "Referencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
+                "file": "Referencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md"
+                "file": "Referencias.md"
               }
             }
           },
@@ -164,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,36 +164,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4ccb3aba2472ed2",
+  "active": "58e73a8e63ac09b9",
   "lastOpenFiles": [
-    "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
-    "Referencias.md",
-    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
-    "1Sistemas Distribuidos/1-Sistemas Distribuidos.md",
     "5Engenharia de Software/3-Qualidade de software.md",
-    "aulas",
     "5Engenharia de Software/2Paradigmas de Software.md",
+    "5Engenharia de Software/1Processos.md",
+    "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
     "4Analise de Algoritimos/1-Modelo método analitico para analise de algoritimos.md",
-    "diagramas/Arquitetura9.svg",
+    "3Fundamento da Realidade Virtual e Aumentada/1-Projeções.md",
+    "2Trabalho de Curso/1-Anotações sobre TC.md",
+    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
+    "1Sistemas Distribuidos/3-Arquiterura de sistemas distribuídos.md",
+    "1Sistemas Distribuidos/2-Sistemas Distribuidos.md",
+    "1Sistemas Distribuidos/1-Sistemas Distribuidos.md",
     "diagramas/DiagramaNaoConvencional.svg",
+    "Referencias.md",
+    "aulas",
+    "diagramas/Arquitetura9.svg",
     "4Analise de Algoritimos/Untitled Diagram.svg.md",
     "4Analise de Algoritimos/Untitled Diagram.svg",
     "diagrams/Arquitetura9.svg.md",
-    "3Fundamento da Realidade Virtual e Aumentada/1-Projeções.md",
     "diagrams",
     "diagramas/Arquitetura4.svg",
-    "1Sistemas Distribuidos/3-Arquiterura de sistemas distribuídos.md",
     "diagramas/Arquitetura8.svg",
     "diagramas/Arquitetura7.svg",
     "diagramas/Arquitetura6.svg",
     "diagramas/Arquitetura5.svg",
-    "1Sistemas Distribuidos/2-Sistemas Distribuidos.md",
     "Arquitetura.png.md",
     "diagramas/Arquitetura.svg",
     "diagramas/Arquitetura.png",
     "diagramas",
-    "5Engenharia de Software/1Processos.md",
-    "2Trabalho de Curso/1-Anotações sobre TC.md",
     "Kanban.md",
     "Untitled.canvas",
     "Diagramas/Untitled.canvas",

@@ -1,4 +1,4 @@
-![teste](../diagramas/Arquitetura9.svg)
+![](../diagramas/Arquitetura9.svg)
 ### Processos e threads
 - Movimentar processos entre máquinas diferentes em SD;
 - Migração de processos, ou migração de código, ajuda a aumentar a escalabilidade

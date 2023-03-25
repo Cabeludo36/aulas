@@ -28,15 +28,15 @@
 ### Exemplo de cliente-servidor em cadeia
 ![](../diagramas/Arquitetura3.svg)
 ### Exemplo Arquitetura cliente-servidor replicados
-![[Arquitetura4.svg]]
+![](../diagramas/Arquitetura4.svg)
 ### Exemplo servidor com código móvel
-![[Arquitetura5.svg]]
+![](../diagramas/Arquitetura5.svg)
 ### Push
-![[diagramas/Arquitetura6.svg]]
+![](../diagramas/Arquitetura6.svg)
 ### Peer-to-peer
 - Processos desempenham papeis similares
 	- Não há distinção entre cliente e servidor
-![[Arquitetura7.svg]]
+![](../diagramas/Arquitetura7.svg)
 - Não há autoridade central
 - Pacote contem informações sobre o proximo **step**
-![[Arquitetura8.svg]]
+![](../diagramas/Arquitetura8.svg)
