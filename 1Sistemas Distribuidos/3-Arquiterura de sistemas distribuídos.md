@@ -36,7 +36,9 @@
 ### Peer-to-peer
 - Processos desempenham papeis similares
 	- Não há distinção entre cliente e servidor
+	  
 ![](../diagramas/Arquitetura7.svg)
 - Não há autoridade central
 - Pacote contem informações sobre o proximo **step**
+  
 ![](../diagramas/Arquitetura8.svg)
