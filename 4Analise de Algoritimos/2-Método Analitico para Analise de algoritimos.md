@@ -46,7 +46,9 @@ for(i = 0; i < n; i++) {
 | Algoritimo A         | Algotitimo B     |
 | -------------------- | ---------------- |
 | $T(n)=\frac{n^2}{2}$ | $T(n)=100n+1000$ |
+
 **Qual o algoritimo mais eficiente?**
+
 | $T(n)=\frac{n^2}{2}$ |                 | $T(n)=100n+1000$ |                 |
 | -------------------- | --------------- | ---------------- | --------------- |
 | **n**                    | **QTDE Instruções** | **n**                | **QTDE Instruções** |

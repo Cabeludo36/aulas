@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5Engenharia de Software/3-Qualidade de software.md",
+                "file": "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5Engenharia de Software/3-Qualidade de software.md",
+                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5Engenharia de Software/3-Qualidade de software.md",
+                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5Engenharia de Software/3-Qualidade de software.md"
+                "file": "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md"
               }
             }
           },
@@ -171,18 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fa2b3aa119a675e",
+  "active": "d4ccb3aba2472ed2",
   "lastOpenFiles": [
+    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
+    "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
+    "1Sistemas Distribuidos/1-Sistemas Distribuidos.md",
+    "5Engenharia de Software/3-Qualidade de software.md",
     "aulas",
     "5Engenharia de Software/2Paradigmas de Software.md",
-    "5Engenharia de Software/3-Qualidade de software.md",
-    "4Analise de Algoritimos/2-Método Analitico para Analise de algoritimos.md",
     "4Analise de Algoritimos/1-Modelo método analitico para analise de algoritimos.md",
     "diagramas/Arquitetura9.svg",
     "diagramas/DiagramaNaoConvencional.svg",
     "4Analise de Algoritimos/Untitled Diagram.svg.md",
     "4Analise de Algoritimos/Untitled Diagram.svg",
-    "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
     "diagrams/Arquitetura9.svg.md",
     "3Fundamento da Realidade Virtual e Aumentada/1-Projeções.md",
     "diagrams",
@@ -196,7 +196,6 @@
     "Arquitetura.png.md",
     "diagramas/Arquitetura.svg",
     "diagramas/Arquitetura.png",
-    "1Sistemas Distribuidos/1-Sistemas Distribuidos.md",
     "diagramas",
     "5Engenharia de Software/1Processos.md",
     "2Trabalho de Curso/1-Anotações sobre TC.md",
