@@ -1,4 +1,6 @@
 Com a quantificação das etapas geradas pelo modelo RAM podemos comparar varios algoritimos uns com os outros e afirmar de maneira mais precisa qual é mais rápido, pois, independente da velocidade dos computadores nos quais são executados uma menor quantidade de etapas sempre apresentará um desempenho melhor para grandes volumes de dados processados.
+
+
 Veremos o código de um programa simples para começar a explicar a tecnica analítica da contagem de etapas. 
 Para realaizar este processo, basta contar, linha por linha, aquantidade de instruções realizadas por cada comando.
 ### Algoritimo
