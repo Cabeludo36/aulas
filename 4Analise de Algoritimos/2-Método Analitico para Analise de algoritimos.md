@@ -31,7 +31,7 @@ public static void printArray(int[] A) {
 ### Algoritimo quadratico
 ```c
 matriz[n,m]
-    //1     n+1    1
+    //1     n+1    n
 for(i = 0; i < n; i++) {
 	//    1         n+1   n
 	for(int j = 0; i < n; i++) {
