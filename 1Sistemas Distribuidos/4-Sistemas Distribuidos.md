@@ -12,29 +12,24 @@
 - Elas proporcionam um meio conveniente de permitir chamadas bloqueadas de sistemas sem bloquear o processo interno.
 ### Comunicação
 1. **Forma de comunicação**
-   - Direta:
-
-      send: Há indicação do processo receptor
-         
-      Exemplo: 
-
-	      `send(process, msg)`
-     receive: Há indicação do emissor
-      Exemplo: 
-
+   - **Direta**:<br>
+      `send`: <br>&emsp;
+      Há indicação do processo receptor<br>
+      **Exemplo**: <br>&emsp;
+	      `send(process, msg)`<br><br>
+     `receive`:<br>&emsp;
+     Há indicação do emissor<br>
+      **Exemplo**:<br>&emsp;
 	      `receive(process, msg)`
-   - Indireta:
-
-     send: Envio para uma porta ou mailbox como reconhecimento de qual será o receptor.
-
-     Exemplo: 
-
-	     `send(mailbox, msg)`
-     receive: Obtenção da msg guardada no mailbox, possivelmente desconhecendo a origem.
-
-     Exemplo: 
-     
-	     `receve(mailbox, msg)`
+   - **Indireta**:<br>
+     `send`:<br>
+     &emsp;Envio para uma porta ou mailbox como reconhecimento de qual será o receptor.<br>
+     **Exemplo**:<br>
+	     &emsp;`send(mailbox, msg)`<br><br>
+     `receive`:<br>
+     &emsp;Obtenção da msg guardada no mailbox, possivelmente desconhecendo a origem.<br>
+     **Exemplo**:<br>
+	   &emsp;  `receve(mailbox, msg)`
 2. **Troca de mensagens**
    - As mensagens são objetos de dados cuja estrutura e aplicação são definidas pelas aplicações que o usarão
    - Feitas através de primitivas de comunicação `send` e `receve`
