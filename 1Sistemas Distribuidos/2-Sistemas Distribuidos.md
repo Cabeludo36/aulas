@@ -1,4 +1,4 @@
-"Um sistema distribuido eé um <ins>conjunto de computadores independentes</ins> que se apresenta a seus usuarios com <ins>um sistema unico e coerente</ins>"
+"Um sistema distribuido é um <ins>conjunto de computadores independentes</ins> que se apresenta a seus usuarios com <ins>um sistema unico e coerente</ins>"
 ## <ins>Ciladas</ins>
 - Sistemas distribuidos são diferentes do software tradicional porque componentes estão dispersos por uma rede;
 - A rede é confiavel;
