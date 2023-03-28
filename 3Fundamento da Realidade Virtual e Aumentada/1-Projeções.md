@@ -6,7 +6,9 @@ Permitem a manipulação de imagens de tamanho real e, favorece trabalhos colabo
 	Uma forma de comunicar as ações do usuário ao ambiente virtual e usar gestos capturados por luvas, podendo até "simular" formas geometricas que possam ser interagidas.
 - **Sistemas de Interfaces não-convencionais**:
 	A exploração do ambiente virtual é feito usando-se interfaces não-convencionais, implemantando a imersão total a partir de processamentos cíclicos de informações tipicas de sistemas de R.V., podendo ser representada como: 
+	
 	![](../diagramas/DiagramaNaoConvencional.svg)
+
 	Para não causar desconforto e garantir a condição de presença do usuário, o tempo de latência deve ser baixo (menor que 20ms).
 	Nunca zero, pois o computadir precisa de tempo para rastrear movimentos e renderizar novas imagens.
 	Para alcançar um tempo de latência, algumas abordagens são utilizadas, como:

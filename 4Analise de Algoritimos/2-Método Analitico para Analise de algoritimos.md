@@ -63,7 +63,7 @@ for(i = 0; i < n; i++) {
 | $2^2$         | Exponencial        |
 | $n^k$         | Polinomial         |
 | $n^2$         | Quadratico         |
-| $n log_n$     | Linear Logaritmico |
+| $n\text{ } log_n$     | Linear Logaritmico |
 | $N$           | linear             |
 | $log_n$       | Logáritmico        |
 | $1$              |     constante               |
