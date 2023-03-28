@@ -13,22 +13,27 @@
 ### Comunicação
 1. **Forma de comunicação**
    - Direta:
-     send: 
-	     Há indicação do processo receptor
-     Exemplo: 
-	     `send(process, msg)`
-     receive: 
-	     Há indicação do emissor
-     Exemplo: 
-	     `receive(process, msg)`
+
+      send: Há indicação do processo receptor
+         
+      Exemplo: 
+
+	      `send(process, msg)`
+     receive: Há indicação do emissor
+      Exemplo: 
+
+	      `receive(process, msg)`
    - Indireta:
-     send: 
-	     Envio para uma porta ou mailbox como reconhecimento de qual será o receptor.
+
+     send: Envio para uma porta ou mailbox como reconhecimento de qual será o receptor.
+
      Exemplo: 
+
 	     `send(mailbox, msg)`
-     receive: 
-	     Obtenção da msg guardada no mailbox, possivelmente desconhecendo a origem.
+     receive: Obtenção da msg guardada no mailbox, possivelmente desconhecendo a origem.
+
      Exemplo: 
+     
 	     `receve(mailbox, msg)`
 2. **Troca de mensagens**
    - As mensagens são objetos de dados cuja estrutura e aplicação são definidas pelas aplicações que o usarão

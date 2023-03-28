@@ -27,11 +27,19 @@ Defini-se um sistema distribuído como sendo aquele no qual os componentes de ha
 	- Hardware
 - Concorrencia
 - Transparencia
+
 	<ins>Acesso</ins>: Permite que recursos locais e remotos sejam acessados com o uso de operações idênticos.
+
 	<ins>Localização</ins>: Permite que recursos sejam acessados sem o conhecimento de localização fisica ou de rede.
+
 	<ins>Concorrencia</ins>: Permite que vários processos operem concorrentemente e usando recursos sem interferencia entre eles.
+
 	<ins>Replicação</ins>: Permite que várias instancias dos recursos sejam vasadas, sem conhecimento do usuário ou programador.
+
 	<ins>Falhas</ins>: Permite a ocultação de falhas.
+
 	<ins>Mobilidade</ins>: Permite a movimentação de recursos e clientes dentro de recursos e clientes dentro de um sistema, sem afetar a operação dos usuarios.
+
 	<ins>Desempenho</ins>: Permite que o sistema seja reconhecido para melhorar o desempenho.
+
 	<ins>Escalabilidade</ins>: Permite que o sistema expanda em tamanho.
