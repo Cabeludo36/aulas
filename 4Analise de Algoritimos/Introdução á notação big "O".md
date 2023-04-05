@@ -40,3 +40,14 @@ Pela definição precisamos demonstrar que existe uma constante $c$ e um valor p
 
 Resumindo:
 $4n+1 <= c \text{ x } n$ 
+
+$c=5$
+
+| n   | $4n+1$ |     | $c \text{ x } n$ |
+| --- | ------ | --- | ---------------- |
+| 0   | 1      | >   | 0                |
+| 1   | 5      | =   | 5                |
+| 2   | 9      | <   | 10               |
+| 3   | 13     | <   | 15               |
+| 4   | 17     | <   | 20               |
+| 5   | 20     | <   | 25                 |
