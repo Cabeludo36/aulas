@@ -22,11 +22,11 @@ Sempre esfatizamos o pior caso, pois, queremos determinar a quantidade maxima de
   
 ### Definição matemática formal
 Dada duas funções de complexidade de tempo de algorítimos:
-$$
-f(n)\text{ e }g(n)
-$$
+
+$f(n)\text{ e }g(n)$
+
 A definição matemática estabelece que:
-$$
-f(n)=O(g(n))
-$$
+
+$f(n)=O(g(n))$
+
 Se, existirem constantes positivas $c\text{ e }n_0$ para todos os $n>=n_0$
