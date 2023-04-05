@@ -17,7 +17,9 @@ Sempre esfatizamos o pior caso, pois, queremos determinar a quantidade maxima de
   | $O(n!)$            | n    |
   
   A lista acima está ordenada por eficiencia, algoritmos que rodam em $O(logn)$ rodam muito mais rapido do que algoritimos que rodam em $O(n!)$
+  
   ![](../diagramas/GraficoAlg1.svg)
+  
 ### Definição matmática formal
 Dada duas funções de complexidade de tempo de algoritimos:
 $$$
