@@ -36,4 +36,4 @@ $4n+1=O(n)$
 (Ẽ-se "$4n+1$" é $O(n)$)
 Pela definição precisamos demonstrar que existe uma constante $c$ e um valor positivo $n_o$ de forma que, para todos os valores de $n$ maiores ou igual á $n_0$, $4n+1$ sempre seja menor ou igual a $c \text{ x } n$. 
 Resumindo:
-$4n+1=<c\text{ x }n$ 
+$4n+1 <= c \text{ x } n$ 
