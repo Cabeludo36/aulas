@@ -13,7 +13,6 @@ Sempre esfatizamos o pior caso, pois, queremos determinar a quantidade maxima de
   | $O(n)$             | n    |
   | $O(n\text{ }log_n)$ | n    |
   | $O(n^2)$           | n    |
-  | $O(n^2)$           | n    |
   | $O(n!)$            | n    |
   
   A lista acima está ordenada por eficiencia, algoritmos que rodam em $O(logn)$ rodam muito mais rapido do que algoritimos que rodam em $O(n!)$
