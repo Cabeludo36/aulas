@@ -1,8 +1,3 @@
-<style>
-	tab {
-		tab-size: 2;
-	}
-</style>
 Existem tipos de plataformas de R.V. fundamentada em projeções: Tela panorâmica, mesa digital e cavernas digitais.<br>
 Permitem a manipulação de imagens de tamanho real e, favorece trabalhos colaborativos com participação simultânea de varias pessoas.
 ## Dispositivos Somaticos
