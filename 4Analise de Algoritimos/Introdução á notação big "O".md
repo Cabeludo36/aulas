@@ -11,7 +11,7 @@ Sempre esfatizamos o pior caso, pois, queremos determinar a quantidade maxima de
   | ------------------ | ---- |
   | $O(log_n)$         | n    |
   | $O(n)$             | n    |
-  | $O(n\text{ }log_n$ | n    |
+  | $O(n\text{ }log_n)$ | n    |
   | $O(n^2)$           | n    |
   | $O(n^2)$           | n    |
   | $O(n!)$            | n    |
