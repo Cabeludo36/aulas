@@ -8,23 +8,23 @@ Sempre esfatizamos o pior caso, pois, queremos determinar a quantidade maxima de
 - Quais tempos de execução podemos esperar para diferentes tipos de soluções?
 - Cada algoritimo terá seu tempo próprio de execução, mas podemos esperar ver sendo executado com bastante frequência o o seguinte: 
   | Sim                | Nome |
-  | ------------------ | ----- |
-  | $O(log_n)$        |    n  |
-  | $O(n)$             |    n  |
-  | $O(n\text{ }log_n$      |    n  |
-  | $O(n^2)$           |    n  |
-  | $O(n^2)$           |    n  |
-  | $O(n!)$            |    n  |
+  | ------------------ | ---- |
+  | $O(log_n)$         | n    |
+  | $O(n)$             | n    |
+  | $O(n\text{ }log_n$ | n    |
+  | $O(n^2)$           | n    |
+  | $O(n^2)$           | n    |
+  | $O(n!)$            | n    |
   
   A lista acima está ordenada por eficiencia, algoritmos que rodam em $O(logn)$ rodam muito mais rapido do que algoritimos que rodam em $O(n!)$
-  ![[GraficoAlg1.svg]]
+  ![](../diagramas/GraficoAlg1.svg)
 ### Definição matmática formal
 Dada duas funções de complexidade de tempo de algoritimos:
-$$
+$$$
 f(n)\text{ e }g(n)
-$$
+$$$
 A definição matemática estabelece que:
-$$
+$$$
 f(n)=O(g(n))
-$$
+$$$
 Se, existirem constantes positivas $c\text{ e }n_0$ para todos os $n>=n_0$
