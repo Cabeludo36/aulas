@@ -34,7 +34,7 @@ Se, existirem constantes positivas $c\text{ e }n_0$ para todos os $n>=n_0$
 #### 1 -
 $4n+1=O(n)$
 
-(Ẽ-se "$4n+1$" é $O(n)$)
+(Ê-se "$4n+1$" é $O(n)$)
 
 Pela definição precisamos demonstrar que existe uma constante $c$ e um valor positivo $n_o$ de forma que, para todos os valores de $n$ maiores ou igual á $n_0$, $4n+1$ sempre seja menor ou igual a $c \text{ x } n$. 
 
@@ -51,3 +51,15 @@ $c=5$
 | 3   | 13     | <   | 15               |
 | 4   | 17     | <   | 20               |
 | 5   | 20     | <   | 25                 |
+
+#### 2 -
+$5n^2+1 = O(n^2)$
+
+$c=5$
+
+$5n^2+1 <= c\text{ x } n^2$
+| n   | $5n^2+1$ |     | $c \text{ x } n^2$ |
+| --- | -------- | --- | -------- |
+| 0   | 1        | >   | 0        |
+| 1   | 5        | =   | 5        | 
+| 2   | 19         |  <   |  20        |
