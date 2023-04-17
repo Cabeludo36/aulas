@@ -15,15 +15,15 @@
 4. Processadores Fail-stop e armazenamento estável
 	- O sistema deve preservar seu estado global mesmo na presença de falhas;
 	- Armazenamento estável;
-	- Lembrando: falhas podem ocorrer inclusive no armazenamento secondario ou seja, disco magnetico ou ótico;
+	- Lembrando: falhas podem ocorrer inclusive no armazenamento secondario ou seja, disco magnético ou ótico;
 	- Armazenamento estável ideal é apenas uma abstração teórica;
 	- Para toda e qualquer operação na presença de uma falha interna irrecuoperavel: Fail-Stop
 5. Tratamento de falhas
 	- Detecção de falhas - checksum;
 	- Mascaramento de falhas - retransmissão;
 	- Tolerar flhas - Não é pratico tratar todas;
-	- Recuperação de falhas - rollback
-	- Redundância
+	- Recuperação de falhas - rollback;
+	- Redundância;
 
 Notas:
 - nodos não podem ter processadores diferentes, porem podem ter mais memoria;
