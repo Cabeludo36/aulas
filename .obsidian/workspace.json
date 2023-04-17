@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d98c469b0e8f2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4Analise de Algoritimos/3-Introdução á notação big \"O\".md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3a7fd5e6151eead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1Sistemas Distribuidos/Trabalho cluster Beowulf.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c028ce88ed8a1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5Engenharia de Software/4-Principios de projeto.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f2c6111f179cfdf",
             "type": "leaf",
             "state": {
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

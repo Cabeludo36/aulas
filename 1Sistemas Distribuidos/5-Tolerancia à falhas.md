@@ -24,3 +24,6 @@
 	- Tolerar flhas - Não é pratico tratar todas;
 	- Recuperação de falhas - rollback
 	- Redundância
+
+Notas:
+- nodos não podem ter processadores diferentes, porem podem ter mais memoria;
