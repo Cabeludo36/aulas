@@ -27,3 +27,4 @@
 
 Notas:
 - nodos não podem ter processadores diferentes, porem podem ter mais memoria;
+- para depurar SDs com kubernets é possivel usar o programa Istio
