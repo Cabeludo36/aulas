@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
+                "file": "1Sistemas Distribuidos/Trabalho cluster Beowulf.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef8af994743f550e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
+                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
+                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Sistemas Distribuidos/5-Tolerancia à falhas.md"
+                "file": "1Sistemas Distribuidos/Clusters de computadores.md"
               }
             }
           },
@@ -164,11 +178,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f2c6111f179cfdf",
+  "active": "ef8af994743f550e",
   "lastOpenFiles": [
-    "5Engenharia de Software/4-Principios de projeto.md",
-    "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
     "1Sistemas Distribuidos/Trabalho cluster Beowulf.md",
+    "1Sistemas Distribuidos/Clusters de computadores.md",
+    "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
+    "5Engenharia de Software/4-Principios de projeto.md",
     "1Sistemas Distribuidos/3-Arquiterura de sistemas distribuídos.md",
     "1Sistemas Distribuidos/4-Sistemas Distribuidos.md",
     "Referencias.md",
