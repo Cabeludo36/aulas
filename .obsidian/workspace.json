@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
+                "file": "1Sistemas Distribuidos/Trabalho cluster Beowulf.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23857cfad3de6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3Fundamento da Realidade Virtual e Aumentada/2-Realidade virtual imersiva e nãp-imersiva.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
+                "file": "3Fundamento da Realidade Virtual e Aumentada/2-Realidade virtual imersiva e nãp-imersiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1Sistemas Distribuidos/Clusters de computadores.md",
+                "file": "3Fundamento da Realidade Virtual e Aumentada/2-Realidade virtual imersiva e nãp-imersiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1Sistemas Distribuidos/Clusters de computadores.md"
+                "file": "3Fundamento da Realidade Virtual e Aumentada/2-Realidade virtual imersiva e nãp-imersiva.md"
               }
             }
           },
@@ -178,9 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef8af994743f550e",
+  "active": "c23857cfad3de6ab",
   "lastOpenFiles": [
     "1Sistemas Distribuidos/Trabalho cluster Beowulf.md",
+    "3Fundamento da Realidade Virtual e Aumentada/2-Realidade virtual imersiva e nãp-imersiva.md",
     "1Sistemas Distribuidos/Clusters de computadores.md",
     "1Sistemas Distribuidos/5-Tolerancia à falhas.md",
     "5Engenharia de Software/4-Principios de projeto.md",
