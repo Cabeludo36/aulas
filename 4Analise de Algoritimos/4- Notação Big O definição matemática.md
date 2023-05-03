@@ -20,10 +20,11 @@ Da mesma forma $4n-3$ é $Ω(1)$ pois $f(n)$ funciona apresentará um comportame
 ![](../diagramas/BigOmegaConstante.svg)
 
 #### Outro exemplo:
-$4n-3$ não é $Ω(2^2)$ pois $fn)$ nunca crescera a ponto de ultrapassar o comportamentp quadratico.
+$4n-3$ não é $Ω(2^2)$ pois $f(n)$ nunca crescera a ponto de ultrapassar o comportamentp quadratico.
 
 ![](../diagramas/BigOmegaQuadratico.svg)
 
+obs.: Não tera limite inferior por ter $n^2$ que passa da função $4n - 3$, por tanto não é $Ω$
 ### Definição matemática formal
 $f(n)=Ω(g(n))$ ("lê-se $f(n)$ é $Ω(g(n))$") se existirem constantes positivas $c$ e $n_0$, tais que:
 
