@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0db8bbb27cba356",
+        "id": "97d9d027e56e76e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5df9d64c7cd4832",
+            "id": "b068601ce34e2a12",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5df9d64c7cd4832",
+  "active": "b068601ce34e2a12",
   "lastOpenFiles": [
     "4Analise de Algoritimos/4- Notação Big O definição matemática.md",
     "diagramas/BigOmegaConstante.svg",
