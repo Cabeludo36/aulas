@@ -1,5 +1,7 @@
 $f(n) = O(g(n))$
+
 "Lê-se $f(n)$ é Big O de $g$ de $n$"
+
 Se existirem constantes posicionadas $c$ e $n_0$ tais que $f(n)<= c \text{ x } g(n)$ para todos os $n>=n_0$ 
 ### Notação Big Omega(Ω)
 A notação Ω nos fornece uma simbologia simplificada para representar um limite inferior de desempenho para um algoritimo. Isto é, um limite minimo de tempo que um algoritimo leva para ser executado
