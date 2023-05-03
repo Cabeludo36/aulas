@@ -29,3 +29,14 @@ obs.: Não tera limite inferior por ter $n^2$ que passa da função $4n - 3$, po
 $f(n)=Ω(g(n))$ ("lê-se $f(n)$ é $Ω(g(n))$") se existirem constantes positivas $c$ e $n_0$, tais que:
 
 $f(n)>=c \times g(n)$ para todos os $n>=n_0$
+### Exercicios:
+Demonstrar que $4n+1$
+
+$c=4$
+| N   | $4n+1$ | >=  | $c \times n$ |
+| --- | ------ | --- | ------------ |
+| 1   | 5      | >   | 4            |
+| 2   | 9      | >   | 8            |
+| 3   | 13     | >   | 12           |
+| 4   | 17     | >   | 16           |
+| 5   | 21     | >    | 20           |
