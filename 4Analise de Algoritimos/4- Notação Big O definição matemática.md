@@ -8,7 +8,9 @@ A notação Ω nos fornece uma simbologia simplificada para representar um limit
 ### Exemplos para função linear
 **Quando dizemos:**
 $4n-3$ é $Ω(n)$ ("lê-se" é ômega de n") estamos afirmando que o comportamento assimtótico de uma função linear é igual ou inferior ao dela.
+
 Significa dizer que a função $4n-3$ nunca terá um comportamento de crescimento inferior ao de uma função com o comportamento linear.
+
 Assim $Ω(n)$ apresenta-se como um limite inferior a $f(n)$
 
 ![](../diagramas/GraficoOmegaLinear.svg)
