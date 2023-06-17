@@ -1,0 +1,2 @@
+- testes são indispensaveis para detectar defeitos que ainda escaparam das revisões
+- são utilizados para avaliar o grau de qualidade 

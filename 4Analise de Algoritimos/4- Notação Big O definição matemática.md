@@ -40,3 +40,30 @@ $c=4$
 | 3   | 13     | >   | 12           |
 | 4   | 17     | >   | 16           |
 | 5   | 21     | >    | 20           |
+
+### Notação Big O
+A notação O nos fornece uma simbologia para representar um limite exato de tempo que um algoritimo leva para ser executado, ou seja, a notação O representa o ponto de encontro entre as notação Ω (limite inferior) e Big O(limite superior)
+#### Definição matemática formal
+Dada duas definições de complexidade de tempo: $f(n)$ e $g(n)$ a deninição estabelece que:
+
+$f(n) = O(g(n))$ ("lê-se $f(n)$ é $O(g(n))$")
+
+Se existissem duas constantes positivas $c_1$ e $c_2$ e um valor $n_0$, tais que:
+
+$c_1 \times g(n) <= f(n) <= c_2 \times g(n)$ 
+
+para todos os $n>=n_0$ 
+
+Provar que $4n+1$ é $O(n)$
+
+$c_1=4$
+
+$c_2=5$
+
+| n   | $4n$ | $4n+1$ |     | 5n  |
+| --- | ---- | ------ | --- | --- |
+| 1   | 4    | 5      |     | 5   |
+| 2   | 8    | 9      |     | 10  |
+| 3   | 12   | 13     |     | 15  |
+| 4   | 16   | 17     |     | 20  |
+| 5   | 20   | 21     |     | 25    |
